@@ -52,10 +52,7 @@ This project demonstrates the effectiveness of BERT in handling text classificat
 You can access the dataset used in this project from the following GitHub link: [MACD Dataset](https://github.com/topics/macd-indicator).
 
 ## Contact Us
-For more details about this project, please reach out to us at [se21ucse035@mahindrauniversity.edu.in](mailto:se21ucse035@mahindrauniversity.edu.in).
-
-## Blog Post
-For a detailed blog post about this project, visit [our blog](https://bhuvanakanakam.github.io/blog/hello.html).
+For more details about this project, please reach out to us at [se21ucse035@mahindrauniversity.edu.in](mailto:se21ucse156@mahindrauniversity.edu.in).
 
 ## Acknowledgments
 We acknowledge support from Mahindra University and the guidance of Ms. Nidhi Goyal. We would also like to thank our team members for their hard work and dedication.
