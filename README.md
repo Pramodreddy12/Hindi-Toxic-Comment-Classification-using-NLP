@@ -1,11 +1,3 @@
 # Natural Language Processing
-This contains the course work I have been doing in NLP class
-
-
-
-
-
-Semester 6 
-Bhuvana Kanakam
-SE21UCSE035
+This contains the Project and Assignments I did during my NLP Course.
 
